@@ -4,6 +4,8 @@ Given a dataset and it's attributes, this R Shiny application determines the bes
 
 The point where the stepwise regression is not able to further reduce AIC/BIC is chosen as the final model. I have used some of the built-in datasets in R such as 'iris' and 'areas' for the demonstration.
 
+The Shiny application can be found here : https://shiivong27.shinyapps.io/Automated_Regression_and_Variable_Selection/
+
 R packages used:
 
 - shiny
